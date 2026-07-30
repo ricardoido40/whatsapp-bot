@@ -1,0 +1,5 @@
+/sysroot/home/ricardo/bot/src/main/java/com/ricardoaires/whatsapp/bot/BotApplication.java
+/sysroot/home/ricardo/bot/src/main/java/com/ricardoaires/whatsapp/bot/controller/WebhookController.java
+/sysroot/home/ricardo/bot/src/main/java/com/ricardoaires/whatsapp/bot/model/Conversation.java
+/sysroot/home/ricardo/bot/src/main/java/com/ricardoaires/whatsapp/bot/repository/ConversationRepository.java
+/sysroot/home/ricardo/bot/src/main/java/com/ricardoaires/whatsapp/bot/service/ChatbotService.java

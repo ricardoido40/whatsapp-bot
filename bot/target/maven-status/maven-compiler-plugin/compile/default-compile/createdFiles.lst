@@ -1,0 +1,6 @@
+com/ricardo/bot/service/ChatbotService.class
+com/ricardo/bot/controller/WebhookController.class
+com/ricardoaires/whatsapp/bot/BotApplication.class
+com/ricardo/bot/model/Conversation.class
+com/ricardo/bot/model/Conversation$ConversationBuilder.class
+com/ricardo/bot/repository/ConversationRepository.class
