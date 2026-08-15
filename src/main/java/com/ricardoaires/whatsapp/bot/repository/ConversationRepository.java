@@ -1,6 +1,6 @@
-package com.ricardo.bot.repository;
+package com.ricardoaires.whatsapp.bot.repository;
 
-import com.ricardo.bot.model.Conversation;
+import com.ricardoaires.whatsapp.bot.model.Conversation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;

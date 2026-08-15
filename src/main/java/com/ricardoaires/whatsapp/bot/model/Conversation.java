@@ -1,4 +1,4 @@
-package com.ricardo.bot.model;
+package com.ricardoaires.whatsapp.bot.model;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

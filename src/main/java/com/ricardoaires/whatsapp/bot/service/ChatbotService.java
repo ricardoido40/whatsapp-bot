@@ -1,7 +1,7 @@
-package com.ricardo.bot.service;
+package com.ricardoaires.whatsapp.bot.service;
 
-import com.ricardo.bot.model.Conversation;
-import com.ricardo.bot.repository.ConversationRepository;
+import com.ricardoaires.whatsapp.bot.model.Conversation;
+import com.ricardoaires.whatsapp.bot.repository.ConversationRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
