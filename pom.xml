@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ricardoaires.whatsapp</groupId>
-	<artifactId>bot</artifactId>
+	<artifactId>whatsapp-bot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
